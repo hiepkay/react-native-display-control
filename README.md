@@ -117,4 +117,6 @@ export default function ScannerScreen() {
 
   return <View>{/* scanner UI */}</View>;
 }
-#free to use
+```
+
+## Free to use

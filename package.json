@@ -1,6 +1,6 @@
 {
   "name": "react-native-display-control",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "brightness control and keep screen awake",
   "main": "src/index",
   "codegenConfig": {
@@ -8,9 +8,9 @@
     "type": "modules",
     "jsSrcsDir": "src"
   },
-  "author": " <> ()",
+  "author": " <hiepkey> ()",
   "license": "UNLICENSED",
-  "homepage": "#readme",
+  "homepage": "https://github.com/hiepkay/react-native-display-control",
   "devDependencies": {
     "@react-native/babel-preset": "0.81.1",
     "@types/react": "^19.1.0",
