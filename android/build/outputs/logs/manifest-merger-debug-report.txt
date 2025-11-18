@@ -1,0 +1,24 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/DATA_MAC/SMART/Vinacomin_RN79/node_modules/react-native-display-control/android/src/main/AndroidManifest.xml:1:1-8:12
+INJECTED from /Volumes/DATA_MAC/SMART/Vinacomin_RN79/node_modules/react-native-display-control/android/src/main/AndroidManifest.xml:1:1-8:12
+	package
+		INJECTED from /Volumes/DATA_MAC/SMART/Vinacomin_RN79/node_modules/react-native-display-control/android/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Volumes/DATA_MAC/SMART/Vinacomin_RN79/node_modules/react-native-display-control/android/src/main/AndroidManifest.xml:2:5-51
+	xmlns:android
+		ADDED from /Volumes/DATA_MAC/SMART/Vinacomin_RN79/node_modules/react-native-display-control/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Volumes/DATA_MAC/SMART/Vinacomin_RN79/node_modules/react-native-display-control/android/src/main/AndroidManifest.xml:4:5-7:47
+	tools:ignore
+		ADDED from /Volumes/DATA_MAC/SMART/Vinacomin_RN79/node_modules/react-native-display-control/android/src/main/AndroidManifest.xml:7:9-44
+	android:name
+		ADDED from /Volumes/DATA_MAC/SMART/Vinacomin_RN79/node_modules/react-native-display-control/android/src/main/AndroidManifest.xml:5:9-57
+uses-sdk
+INJECTED from /Volumes/DATA_MAC/SMART/Vinacomin_RN79/node_modules/react-native-display-control/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/DATA_MAC/SMART/Vinacomin_RN79/node_modules/react-native-display-control/android/src/main/AndroidManifest.xml
+INJECTED from /Volumes/DATA_MAC/SMART/Vinacomin_RN79/node_modules/react-native-display-control/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Volumes/DATA_MAC/SMART/Vinacomin_RN79/node_modules/react-native-display-control/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/DATA_MAC/SMART/Vinacomin_RN79/node_modules/react-native-display-control/android/src/main/AndroidManifest.xml
